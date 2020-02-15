@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zeviliao/Projects/mvcPage01/mvcPage01/mvcPage01.csproj": {}
+  },
+  "projects": {
+    "/Users/zeviliao/Projects/mvcPage01/mvcPage01/mvcPage01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zeviliao/Projects/mvcPage01/mvcPage01/mvcPage01.csproj",
+        "projectName": "mvcPage01",
+        "projectPath": "/Users/zeviliao/Projects/mvcPage01/mvcPage01/mvcPage01.csproj",
+        "packagesPath": "/Users/zeviliao/.nuget/packages/",
+        "outputPath": "/Users/zeviliao/Projects/mvcPage01/mvcPage01/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zeviliao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/zeviliao/Projects/mvcPage01/SayHello/SayHello.csproj": {
+                "projectPath": "/Users/zeviliao/Projects/mvcPage01/SayHello/SayHello.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/zeviliao/Projects/mvcPage01/SayHello/SayHello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zeviliao/Projects/mvcPage01/SayHello/SayHello.csproj",
+        "projectName": "SayHello",
+        "projectPath": "/Users/zeviliao/Projects/mvcPage01/SayHello/SayHello.csproj",
+        "packagesPath": "/Users/zeviliao/.nuget/packages/",
+        "outputPath": "/Users/zeviliao/Projects/mvcPage01/SayHello/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zeviliao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

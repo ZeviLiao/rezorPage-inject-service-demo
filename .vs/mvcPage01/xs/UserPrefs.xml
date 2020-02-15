@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{481DD643-0479-47DE-8F69-E6498B3E1EC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SayHello/Class1.cs">
+    <Files>
+      <File FileName="mvcPage01/Pages/Shared/_Layout.cshtml" Line="14" Column="51" />
+      <File FileName="mvcPage01/Pages/Index.cshtml" Line="4" Column="5" />
+      <File FileName="mvcPage01/Startup.cs" Line="27" Column="10" />
+      <File FileName="mvcPage01/Pages/Index.cshtml.cs" Line="19" Column="30" />
+      <File FileName="mvcPage01/Program.cs" Line="1" Column="1" />
+      <File FileName="mvcPage01/Pages/Error.cshtml" Line="4" Column="5" />
+      <File FileName="mvcPage01/Pages/Privacy.cshtml" Line="9" Column="1" />
+      <File FileName="SayHello/Class1.cs" Line="5" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mvcPage01" expanded="True">
+            <Node name="SayHello" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mvcPage01 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SayHello FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

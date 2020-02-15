@@ -1,0 +1,8 @@
+/Users/zeviliao/Projects/mvcPage01/SayHello/bin/Debug/netstandard2.1/SayHello.deps.json
+/Users/zeviliao/Projects/mvcPage01/SayHello/bin/Debug/netstandard2.1/SayHello.dll
+/Users/zeviliao/Projects/mvcPage01/SayHello/bin/Debug/netstandard2.1/SayHello.pdb
+/Users/zeviliao/Projects/mvcPage01/SayHello/obj/Debug/netstandard2.1/SayHello.csprojAssemblyReference.cache
+/Users/zeviliao/Projects/mvcPage01/SayHello/obj/Debug/netstandard2.1/SayHello.AssemblyInfoInputs.cache
+/Users/zeviliao/Projects/mvcPage01/SayHello/obj/Debug/netstandard2.1/SayHello.AssemblyInfo.cs
+/Users/zeviliao/Projects/mvcPage01/SayHello/obj/Debug/netstandard2.1/SayHello.dll
+/Users/zeviliao/Projects/mvcPage01/SayHello/obj/Debug/netstandard2.1/SayHello.pdb
