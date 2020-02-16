@@ -14,7 +14,7 @@
         "outputPath": "/Users/zeviliao/Projects/mvcPage01/SayHello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zeviliao/.nuget/NuGet/NuGet.Config"
+          "/Users/zeviliao/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

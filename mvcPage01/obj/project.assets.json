@@ -6442,7 +6442,7 @@
       "outputPath": "/Users/zeviliao/Projects/mvcPage01/mvcPage01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zeviliao/.nuget/NuGet/NuGet.Config"
+        "/Users/zeviliao/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
